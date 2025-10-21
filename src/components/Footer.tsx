@@ -43,7 +43,7 @@ const Footer = () => {
               <Twitter className="h-6 w-6" />
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:your.nareshaptechtrainer@gmail.com"
               className="text-muted-foreground hover:text-primary transition-colors"
               aria-label="Email"
             >

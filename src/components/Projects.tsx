@@ -10,8 +10,8 @@ const projects = [
     description: "A modern, fully responsive portfolio website built with React and Tailwind CSS, featuring smooth animations and mobile-first design.",
     image: project1Image,
     technologies: ["React", "Tailwind CSS", "TypeScript"],
-    githubUrl: "https://github.com/yourusername/project1",
-    liveUrl: "https://project1.demo.com",
+    githubUrl: "https://github.com/nareshaptechtrainer-max/portfolio",
+    liveUrl: "https://naresh-gudivaka.netlify.app",
   },
   {
     title: "E-Commerce Platform",
